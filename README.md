@@ -121,9 +121,9 @@ Once the nodes are running, you can interact with them using the following API e
 * **Request Body (JSON):**
     ```json
     {
-        "sender": "Alice",
-        "receiver": "Bob",
-        "amount": 5.0
+        "sender": "vivan",
+        "receiver": "Trisha",
+        "amount": 50000000
     }
     ```
 * **Example Request:**
@@ -132,9 +132,9 @@ Once the nodes are running, you can interact with them using the following API e
     Content-Type: application/json
 
     {
-        "sender": "Alice",
-        "receiver": "Bob",
-        "amount": 5.0
+        "sender": "Vivan",
+        "receiver": "Trisha",
+        "amount": 50000000
     }
     ```
 * **Example Response:**
